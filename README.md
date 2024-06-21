@@ -5,4 +5,6 @@
 - [Kitty](./kitty/kitty.conf)
 
 
+![screenshot](./screenshot.jpg)
+
 
